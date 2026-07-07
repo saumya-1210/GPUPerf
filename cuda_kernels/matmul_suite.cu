@@ -552,3 +552,4 @@ int main() {
 // Update: Implement float4 vectorized loads in K3 kernel
 // Update: Add WMMA tensor core kernel (K4) with FP16 path
 // cuBLAS reference benchmark integrated
+// Update: Add shared memory tiled kernel (K1) with 32x32 tiles
