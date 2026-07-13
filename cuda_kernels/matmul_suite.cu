@@ -554,3 +554,4 @@ int main() {
 // cuBLAS reference benchmark integrated
 // Update: Add shared memory tiled kernel (K1) with 32x32 tiles
 // Update: Add register tiled kernel (K2) with 4x4 output tiles
+// Update: Implement float4 vectorized loads in K3 kernel
