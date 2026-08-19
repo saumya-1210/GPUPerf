@@ -561,3 +561,4 @@ if __name__ == '__main__':
 # Add rule-based recommendation engine for Nsight analysis
 # Implement Nsight visualization and demo mode
 # Add rule-based recommendation engine for Nsight analysis
+# Implement Nsight visualization and demo mode
