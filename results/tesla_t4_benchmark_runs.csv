@@ -1,0 +1,19 @@
+Run,Kernel,Latency_ms,GFLOPS
+1,cuBLAS,30.94,4442.38
+1,K0 Naive,325.53,422.2
+1,K1 Shared Tiled,157.04,875.2
+1,K2 Register Tiled,63.98,2148.12
+1,K3 Vectorized,128.52,1069.41
+1,K4 WMMA Tensor Core,59.98,2291.23
+2,cuBLAS,32.66,4208.39
+2,K0 Naive,341.12,402.91
+2,K1 Shared Tiled,164.71,834.43
+2,K2 Register Tiled,67.4,2039.0
+2,K3 Vectorized,134.74,1020.0
+2,K4 WMMA Tensor Core,63.85,2152.59
+3,cuBLAS,34.58,3974.95
+3,K0 Naive,357.68,384.25
+3,K1 Shared Tiled,171.05,803.52
+3,K2 Register Tiled,70.6,1946.82
+3,K3 Vectorized,140.89,975.5
+3,K4 WMMA Tensor Core,67.7,2030.0
